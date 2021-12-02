@@ -1,2 +1,4 @@
-# POO-Projeto_Snake
- Projeto base snake com comentários nos lugares indicados.
+# Jogo Snake
+ Modelo do jogo Snake criado na Unity
+ 
+ 
